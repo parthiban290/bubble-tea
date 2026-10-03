@@ -50,7 +50,7 @@ Bubble-Tea/
 Update the structure according to your actual GitHub repository.
 ⚙️ How to Run
 1. Clone the Repository
-git clone <your-github-repository-url>
+git clone <(https://github.com/parthiban290/bubble-tea/tree/main)>
 
 2. Open the Project
 Open the project folder in VS Code.
